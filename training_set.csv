@@ -1,0 +1,11 @@
+game_no,Home_team,Away_team,half_time_score,home_score,away_score,home_odds,draw_odds,away_odds
+1,BHA,LUT,1-0,1,1
+2,BUR,ARS,2-0,2,0
+3,CHE,BRE,0-1,2,1
+4,EVE,AST,0-0,2,0
+5,LIV,CRY,0-1,2,2
+6,MCI,BOU,2-0,3,0
+7,NEW,MUN,2-0,2,0
+8,NOT,TOT,0-3,1,6
+9,SHU,WOL,0-0,1,2
+10,WHU,FUL,1-0,2,0
